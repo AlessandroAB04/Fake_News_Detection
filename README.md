@@ -3,7 +3,7 @@ Fake News Detection Neural Network
 ● Description: Built a neural network capable of identifying fake news articles with an
 initial accuracy of 80%.
 
-● Technologies: TensorFlow, Scikit-learn, Python.
+● Technologies: TensorFlow, Scikit-learn, Python, NLP, Tokenization.
 
 ● Key Contributions:
 
